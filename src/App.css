@@ -1,0 +1,18 @@
+.myapp {
+  color: black;
+  background-color:darkseagreen;
+  height: 70px;
+  border-radius: 50px;
+  border-style:solid;
+  border-color:goldenrod;
+  display: grid;
+  grid-template-rows: 1900px;
+  grid-template-columns: repeat(8,1fr);
+  padding-bottom: 56px;
+  padding-left: 10px;
+}
+
+
+
+
+

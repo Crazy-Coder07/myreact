@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+  color: white;
+  background-color: brown;
+  margin-top: 10px;
+  height: 70px;
+  border-radius: 50px;
+  border-style:solid;
+  border-color:goldenrod;
+}
+.myback{
+  display: grid;
+  margin-top: 10px;
+  height: 800px;
+  width: 1900px;
+  grid-template-columns: 550px 1350px;
+  grid-template-rows: 800px;
+
+}
+.myback1{
+  display: grid;
+  grid-template-columns: 550px;
+  grid-template-rows: 400px 400px;
+
+}
+.myback11{
+  color: black;
+  background-color:darksalmon;
+  margin-bottom: 10px;
+  border-radius: 50px;
+  border-style:solid;
+  border-color:goldenrod;
+  padding-left: 20px;
+}
+
+.myback12{
+  color: black;
+  background-color: chartreuse;
+  border-radius: 20px;
+  border-radius: 50px;
+  border-style: solid;
+  border-color:goldenrod;
+  padding-left: 20px;
+}
+.myback2{
+  color: black;
+  background-color: aqua;
+  margin-left: 10px;
+  border-radius: 50px;
+  border-style:solid;
+  border-color:goldenrod;
+  padding-left: 30px;
+}
+
+
+.myfooter{
+  color: black;
+  background-color:mediumorchid;
+  height: 70px;
+  margin-top: 10px;
+  border-radius: 50px;
+  border-style:solid;
+  border-color:goldenrod;
+  display: grid;
+  grid-template-rows: 1900px;
+  grid-template-columns: repeat(7,1fr);
+  padding-bottom: 40px;
+  padding-left: 20px  ;
+}
+
+.mynature{
+  height: 900px;
+  width: 1900px;
+  background-color: burlywood;
+  margin-top: 10px;
+  border-radius: 50px;
+  border-style:solid;
+  border-color:goldenrod;
+}
+.App-logo{
+  height: 700px;
+  width: 1500px;
+  margin-left: 200px;
+  margin-top:  90px;
+  border-radius: 50px;
+  border-style:solid;
+  border-color:goldenrod;
+}
+
+
+
