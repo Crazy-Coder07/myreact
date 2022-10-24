@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myreact/static/css/main.657ddef2.css",
+    "main.js": "/myreact/static/js/main.a80950d3.js",
+    "static/js/787.454f3eb6.chunk.js": "/myreact/static/js/787.454f3eb6.chunk.js",
+    "static/media/nature1.jpg": "/myreact/static/media/nature1.9a30e8da3400550bf221.jpg",
+    "index.html": "/myreact/index.html",
+    "main.657ddef2.css.map": "/myreact/static/css/main.657ddef2.css.map",
+    "main.a80950d3.js.map": "/myreact/static/js/main.a80950d3.js.map",
+    "787.454f3eb6.chunk.js.map": "/myreact/static/js/787.454f3eb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657ddef2.css",
+    "static/js/main.a80950d3.js"
+  ]
+}
